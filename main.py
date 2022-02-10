@@ -1,5 +1,5 @@
 """
-ini adalah project pertama saya
+edit ini adalah project pertama saya
 """
-print ("Hello Lula!")
-print ("I'm your father")
+print ("Demo Project")
+print ("Dengan Python")
